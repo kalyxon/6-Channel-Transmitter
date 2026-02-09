@@ -1,5 +1,5 @@
 /*A basic 6 channel transmitter using the nRF24L01 module.*/
-/* Modified to display potentiometer reading on LCD */
+
 
 #include <SPI.h>
 #include <nRF24L01.h>
