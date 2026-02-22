@@ -256,6 +256,5 @@ If you find this project useful, please give it a star! ⭐
 
 ---
 
-*Last Updated: $(date +%Y-%m-%d)*
 
 *Project Version: 2.0*
